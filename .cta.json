@@ -1,0 +1,21 @@
+{
+  "projectName": "snitch",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "pnpm",
+  "includeExamples": false,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {
+    "VITE_CLERK_PUBLISHABLE_KEY": "pk_test_d2lzZS1sYW1wcmV5LTc0LmNsZXJrLmFjY291bnRzLmRldiQ"
+  },
+  "git": false,
+  "install": true,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "biome",
+    "clerk"
+  ]
+}
